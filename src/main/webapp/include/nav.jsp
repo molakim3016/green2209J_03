@@ -40,7 +40,7 @@ body {
 </style>
 <div class="topnav">
   <a href="#home" class="home"> Home</a>
-  <a href="#contact" class="split mr-3">JOIN</a>
+  <a href="#contact" class="split mr-3">JOIdddN</a>
   <a href="#news" class="split mr-3">LOGIN</a>
   <a href="#about" class="split mr-3">ADMIN</a>
 </div>
