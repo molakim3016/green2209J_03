@@ -1,4 +1,15 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<script>
+'use strict';
+$(window).scroll(function(){
+	if($(this).scrollTop() > 100 ){
+  	$(".topnav").animate({opacity: '0.2'});
+	}
+	else{
+	  $(".topnav").animate({opacity: '1'});
+	}
+});
+</script>
 <style>
 body {
   margin: 0;
